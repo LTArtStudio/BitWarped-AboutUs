@@ -28,7 +28,7 @@ nav ul li{display: inline-block;line-height: 90px; margin: 0 5px;}
 nav ul li a{color: #1d1d1b;font-size:17px; padding: 7px 13px; border-radius: 3px; text-transform: uppercase; font-weight: bold;}
 .checkbtn{font-size: 30px;color: #a7c86f;float: right;line-height: 80px;margin-right: 40px;cursor: pointer;display: none;}
 #check{display: none;}
-li a.active,li a:hover{color:#a7c86f;transition: .1s;}
+li a.active,li a:hover{color:#ffff;transition: .1s;}
 @media (max-width: 768px){
   label.logo{padding-left: 10px;}
   nav ul li a{font-size: 16px;}
