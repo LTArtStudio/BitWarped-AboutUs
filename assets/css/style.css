@@ -37,7 +37,7 @@ li a.active,li a:hover{color:#a7c86f;transition: .1s;}
   ul{position: fixed;
     width: 80%;
     height:100vh;
-    background: #a7c86f;
+    background: #1d1d1b;
     top: 80px;
     left: -100%;
     text-align: center;
